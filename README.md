@@ -1,5 +1,5 @@
 # RISC-V-Accumulating-Sum-of-Values
-#given the pseudo code
+given the pseudo code
 
 int i=0;
 
